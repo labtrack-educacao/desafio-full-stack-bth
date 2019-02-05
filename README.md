@@ -35,7 +35,7 @@ Após o registro da ordem de serviço, os responsáveis pela execução devem re
 - Fazer um **fork** desse projeto, desenvolver e enviar o link do repositório.
 - Documentar todos passos para rodar a aplicação.
 - O histórico do Git também será avaliado.
-
+- Entregas parcias também serão aceitas e avaliadas.
 
 
 
