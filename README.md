@@ -1,4 +1,4 @@
-# desafio-full-satck-bth
+# desafio-full-stack-bth
 
 Este documento descreve o desafio para Full stack developer.
 
